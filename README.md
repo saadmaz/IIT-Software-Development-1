@@ -104,14 +104,7 @@ This course uses Python 3.x (specifically Python 3.8+). To ensure compatibility:
   ```
   pip install -r requirements.txt
   ```
-
-## 👥 Contributors
-
-- [Your Name] - Repository maintainer and primary contributor
-- Saad - Contributed reference materials and alternative solutions
-- Aathif - Provided optimization techniques and elegant implementations
-- [Other Contributors]
-
+  
 ## ⚠️ Important Note
 
 This repository is for educational purposes only. When using reference materials from others:
