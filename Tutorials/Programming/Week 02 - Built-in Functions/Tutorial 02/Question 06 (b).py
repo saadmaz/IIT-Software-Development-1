@@ -1,4 +1,10 @@
+# Exception handling for division by zero
+
 try:
-    x = 45 / 0
+    numerator = int(input("Enter a number: "))
+    denominator = int(input("Enter a divisor: "))
+    result = numerator / denominator
+    print("Result:", result)
 except ZeroDivisionError:
-    print("Cannot divide by zero")
+    print("Cannot divide by zero") 
+    
