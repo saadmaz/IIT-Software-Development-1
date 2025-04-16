@@ -6,7 +6,7 @@
 
 
 ## Setting up separate variables for progress 
-from graphics import *
+# from graphics import *
 game =True   
 Progress = 0
 trailer = 0
